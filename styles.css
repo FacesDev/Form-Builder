@@ -1,0 +1,8 @@
+body {
+  display:flex;
+  flex-direction: column;
+}
+h1 {
+  background-color: blue;
+  padding:20px;
+}
